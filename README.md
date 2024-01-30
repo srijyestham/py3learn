@@ -6,6 +6,6 @@
 
 
 
-            Python3 Tutotorials Implemenations
+            Python3 Tutorial Programs
 
             #1. String as Palindrome check
